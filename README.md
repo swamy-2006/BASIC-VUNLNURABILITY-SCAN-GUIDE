@@ -1,7 +1,6 @@
 ## BASIC-VUNLNURABILITY-SCAN-GUIDE
 
-* *[Absolutely. Here is a professional four-line description that summarizes the entire project you've completed.
-This project documents the execution of a comprehensive vulnerability assessment based on a cybersecurity internship task. A virtual lab was established using Kali Linux to deploy and configure the Nessus vulnerability scanner. A full system scan was performed on a target machine to identify security weaknesses and misconfigurations. The findings were analyzed, and a professional report with a prioritized remediation plan was created to address the high-impact vulnerabilities.]*
+* *[This project documents the execution of a comprehensive vulnerability assessment based on a cybersecurity internship task. A virtual lab was established using Kali Linux to deploy and configure the Nessus vulnerability scanner. A full system scan was performed on a target machine to identify security weaknesses and misconfigurations. The findings were analyzed, and a professional report with a prioritized remediation plan was created to address the high-impact vulnerabilities.]*
 
 * Basic Nessus Command-Line Management
 Below is a quick reference for some of the basic commands used to manage the Nessus installation on a Linux system from the terminal.
