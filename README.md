@@ -13,12 +13,20 @@ These commands control the main Nessus background service.
 
 ```sudo systemctl status nessusd.service	```
 * Checks if the Nessus service is currently running and shows its status.
+
+
 ```sudo systemctl start nessusd.service```
 * Starts the Nessus service.
+
+
 ```sudo systemctl stop nessusd.service```	
 * Stops the Nessus service.
+
+
 ```sudo systemctl restart nessusd.service```
 * Restarts the Nessus service. Useful after applying changes.
+
+
 ```sudo systemctl enable nessusd.service```	
 * Configures the service to start automatically on system boot.
 
